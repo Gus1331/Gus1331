@@ -3,11 +3,11 @@
 
 <img width="190px" align="right" src="/assets/img/maingif.gif">
 
-My name is Gus, I am a person who loves **programming** and **learning** new features 💘👨‍💻🍵
+My name is Gus, About me: I love programming and learning new features 💘👨‍💻🍵
 
 Graduation in the <a target="_blank" href="https://www.sptech.school/">SPTech school</a> for ASD - Analysis and System Development 📚💻
 
-Working at <a target="_blank" href="https://www.elera.io/"> elera.</a> as a Salesforce Developer  &emsp; <img width="20" src="https://cdn.greatsoftwares.com.br/arquivos/paginas/552-82034f7a28f6d860280122a205fd7c6a.png">
+Working at <a target="_blank" href="https://www.elera.io/"> elera.</a> as a Salesforce Developer<img width="20" src="https://cdn.greatsoftwares.com.br/arquivos/paginas/552-82034f7a28f6d860280122a205fd7c6a.png">
 
 &emsp;
 
