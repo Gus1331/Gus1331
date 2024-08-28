@@ -3,11 +3,11 @@
 
 <img width="190px" align="right" src="/assets/img/maingif.gif">
 
-My name is Gus, About me: I love programming and learning new features 💘👨‍💻🍵
+My name is Gus, I love programming and learning new features, nice to meet you! 💘👨‍💻🍵
 
-Graduation in the <a target="_blank" href="https://www.sptech.school/">SPTech school</a> for ASD - Analysis and System Development 📚💻
+Graduation in the <a target="_blank" href="https://www.sptech.school/">SPTech school</a> for System Development and Analysis 📚💻
 
-Working at <a target="_blank" href="https://www.elera.io/"> elera.</a> as a Salesforce Developer<img width="20" src="https://cdn.greatsoftwares.com.br/arquivos/paginas/552-82034f7a28f6d860280122a205fd7c6a.png">
+Working at <a target="_blank" href="https://www.elera.io/"> elera.</a> as a Salesforce Developer<img width="16" src="https://cdn.greatsoftwares.com.br/arquivos/paginas/552-82034f7a28f6d860280122a205fd7c6a.png">
 
 &emsp;
 
@@ -25,4 +25,4 @@ Working at <a target="_blank" href="https://www.elera.io/"> elera.</a> as a Sale
 
 [![My Skills](https://skillicons.dev/icons?i=gmail&theme=dark)](https://skillicons.dev) &emsp; gustavo.osouza@sptech.school
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://skillicons.dev) <a target="_blank" href="https://www.linkedin.com/in/gustavooliveiraaa/"> &emsp; Gustavo Souza</a>
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://skillicons.dev) &emsp; <a target="_blank" href="https://www.linkedin.com/in/gustavooliveiraaa/"> Gustavo Souza</a>
