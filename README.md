@@ -27,4 +27,4 @@ Working at <a target="_blank" href="https://www.elera.io/"> elera.</a> as a Sale
 
 
 
-<a href="https://wakatime.com"><img align="center" width=800 src="https://wakatime.com/share/@4ca7ada9-d058-4862-aa73-c5a1f1330813/064121c3-4b6d-436f-9849-5fe45c209f31.png" /></a>
+<a href="https://wakatime.com"><img width="692px" src="https://wakatime.com/share/@4ca7ada9-d058-4862-aa73-c5a1f1330813/064121c3-4b6d-436f-9849-5fe45c209f31.png" /></a>
