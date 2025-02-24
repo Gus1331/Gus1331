@@ -18,12 +18,13 @@ Working at <a target="_blank" href="https://www.elera.io/"> elera.</a> as a Sale
 
 ![C](https://img.shields.io/badge/C_Languague-A8B9CC?style=for-the-badge&labelColor=white&logo=c&logoColor=A8B9CC) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-white?style=for-the-badge&logo=arduino&logoColor=00878F) ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white) ![IntelliJ](https://img.shields.io/badge/Intellij_IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+# Studying now...
+
+![Phyton](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Grafana](https://img.shields.io/badge/Grafana-gray?style=for-the-badge&logo=grafana)
 
 # Contact
 
-[![My Skills](https://skillicons.dev/icons?i=gmail&theme=dark)](https://skillicons.dev) &emsp; gustavo.osouza@sptech.school
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://skillicons.dev) &emsp; <a target="_blank" href="https://www.linkedin.com/in/gustavooliveiraaa/"> Gustavo Souza</a>
+[![My Skills](https://skillicons.dev/icons?i=gmail&theme=dark)](https://skillicons.dev) &emsp; gustavo.osouza@sptech.school  &emsp;  &emsp;  &emsp;  [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://skillicons.dev) &emsp; <a target="_blank" href="https://www.linkedin.com/in/gustavooliveiraaa/"> Gustavo Souza</a>
 
 
 # My Activity
