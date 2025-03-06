@@ -5,9 +5,9 @@
 
 My name is Gus, I love programming and learning new features, nice to meet you! 💘👨‍💻🍵
 
-Graduation in the <a target="_blank" href="https://www.sptech.school/">SPTech school</a> for System Development and Analysis 📚💻
+Graduating in <a target="_blank" href="https://www.sptech.school/">SPTech school</a> for System Development and Analysis 📚💻
 
-Working at <a target="_blank" href="https://www.elera.io/"> elera.</a> as a Salesforce Developer<img width="16" src="https://cdn.greatsoftwares.com.br/arquivos/paginas/552-82034f7a28f6d860280122a205fd7c6a.png">
+Studying backend developing ☕🐍🐱‍👤
 
 &emsp;
 
