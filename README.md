@@ -1,13 +1,14 @@
-
 # Hello World!
 
 <img width="190px" align="right" src="/assets/img/maingif.gif">
 
-My name is Gus, Im always programming and learning new features, nice to meet you! 💘👨‍💻🍵
+I'm Gus, a student and a software developer. Nice to meet you 💘👨‍💻🍵
 
 Graduating in <a target="_blank" href="https://www.sptech.school/">SPTech school</a> for System Development and Analysis 📚💻
 
-Studying backend and mobile developing ☕🐍🐱‍👤
+Diving into the C programming language at école 42 "Piscine" ☕😺 🇫🇷 / 🇧🇷
+
+Checkout my <a target="_blank" href="https://www.linkedin.com/in/gustavooliveiraaa/"> Linkedin profile</a>, message me and lets talk! 🐶🗣️
 
 &emsp;
 
@@ -22,14 +23,9 @@ Studying backend and mobile developing ☕🐍🐱‍👤
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![IntelliJ](https://img.shields.io/badge/Intellij_IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VSCode](https://img.shields.io/badge/vs_code-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-white?style=for-the-badge&logo=arduino&logoColor=00878F) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-# Studying now...
+# Developing skill...
 
- ![Grafana](https://img.shields.io/badge/Grafana-gray?style=for-the-badge&logo=grafana)
-
-# Contact
-
-[![My Skills](https://skillicons.dev/icons?i=gmail&theme=dark)](https://skillicons.dev) &emsp; gustavo.osouza@sptech.school  &emsp;  &emsp;  &emsp;  [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://skillicons.dev) &emsp; <a target="_blank" href="https://www.linkedin.com/in/gustavooliveiraaa/"> Gustavo Souza</a>
-
+ ![C](https://img.shields.io/badge/C_Languague-A8B9CC?style=for-the-badge&labelColor=white&logo=c&logoColor=A8B9CC)
 
 # My Activity
 
