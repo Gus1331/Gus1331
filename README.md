@@ -6,7 +6,7 @@ I'm Gus, a student and a software developer. Nice to meet you 💘👨‍💻�
 
 Graduating in <a target="_blank" href="https://www.sptech.school/">SPTech school</a> for System Development and Analysis 📚💻
 
-Diving into the C programming language at école 42 "Piscine" ☕😺 🇫🇷 / 🇧🇷
+Worked in C programming language at école 42 "Piscine" 05/2025 ☕😺 🇫🇷 / 🇧🇷
 
 Checkout my <a target="_blank" href="https://www.linkedin.com/in/gustavooliveiraaa/"> Linkedin profile</a>, message me and lets talk! 🐶🗣️
 
