@@ -4,9 +4,12 @@
 
 I'm Gus, a student and a software developer. Nice to meet you 💘👨‍💻🍵
 
-Graduating in <a target="_blank" href="https://www.sptech.school/">SPTech school</a> for System Development and Analysis 📚💻
+Graduating in <a target="_blank" href="https://www.sptech.school/">SPTech school</a> for System Development and Analysis 📚🌱 
 
-Worked in C programming language at école 42 "Piscine" 05/2025 ☕😺 🇫🇷 / 🇧🇷
+I’m currently learning Software Engineering at <a href="https://www.42sp.org.br/"> 42 São Paulo </a> ☕😺 🇫🇷 / 🇧🇷 
+
+<img src="/assets/img/icon42sp.png" height=50>
+
 
 Checkout my <a target="_blank" href="https://www.linkedin.com/in/gustavooliveiraaa/"> Linkedin profile</a>, message me and lets talk! 🐶🗣️
 
