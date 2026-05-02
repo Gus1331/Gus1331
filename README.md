@@ -4,7 +4,7 @@
 
 I'm Gus, a student and a software developer. Nice to meet you 💘👨‍💻🍵
 
-Graduating in <a target="_blank" href="https://www.sptech.school/">SPTech school</a> for System Development and Analysis 📚🌱 
+Graduated in <a target="_blank" href="https://www.sptech.school/">SPTech school</a> for System Development and Analysis 📚🌱 
 
 I’m currently learning Software Engineering at <a href="https://www.42sp.org.br/"> 42 São Paulo </a> ☕😺 🇫🇷 / 🇧🇷 
 
@@ -16,7 +16,7 @@ Checkout my <a target="_blank" href="https://www.linkedin.com/in/gustavooliveira
 &emsp;
 
 # Skills
-![Java](https://img.shields.io/badge/Java-ed1515?style=for-the-badge) ![Kotlin](https://img.shields.io/badge/Kotlin-ae35e6?style=for-the-badge&labelColor=232F3E&logo=kotlin&logoColor=ae35e6) ![Phyton](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&labelColor=232F3E&logo=springboot&logoColor=6DB33F) ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=3C873A)
+![Java](https://img.shields.io/badge/Java-ed1515?style=for-the-badge) ![Kotlin](https://img.shields.io/badge/Kotlin-ae35e6?style=for-the-badge&labelColor=232F3E&logo=kotlin&logoColor=ae35e6) ![Phyton](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&labelColor=232F3E&logo=springboot&logoColor=6DB33F) ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=3C873A) ![C](https://img.shields.io/badge/C_Languague-A8B9CC?style=for-the-badge&labelColor=white&logo=c&logoColor=A8B9CC)
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F) ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 
@@ -28,7 +28,7 @@ Checkout my <a target="_blank" href="https://www.linkedin.com/in/gustavooliveira
 
 # Developing skill...
 
- ![C](https://img.shields.io/badge/C_Languague-A8B9CC?style=for-the-badge&labelColor=white&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++_Languague-00599C?style=for-the-badge&labelColor=white&logo=cplusplus&logoColor=00599C)
 
 # My Activity
 
