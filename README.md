@@ -11,7 +11,10 @@ I’m currently learning Software Engineering at <a href="https://www.42sp.org.b
 <img src="/assets/img/icon42sp.png" height=50>
 
 
+
 Checkout my <a target="_blank" href="https://www.linkedin.com/in/gustavooliveiraaa/"> Linkedin profile</a>, message me and lets talk! 🐶🗣️
+
+<a target="_blank" href="https://gus1331.github.io/Portfolio/">Portuguese online portfolio </a> 🇧🇷 💼
 
 &emsp;
 
